@@ -1,3 +1,5 @@
-Long Short Term Memory Neural Network for Sequence Predicting
+Long Short Term Memory Neural Network for Sequence Predicting in a Novel.
+
 Around 2007, LSTM started to revolutionize speech recognition, outperforming traditional models in certain speech applications. In 2009, a Connectionist Temporal Classification (CTC)-trained LSTM network was the first RNN to win pattern recognition contests when it won several competitions in connected handwriting recognition. In 2014, the Chinese search giant Baidu used CTC-trained RNNs to break the Switchboard Hub5'00 speech recognition benchmark without using any traditional speech processing methods.
+
 The idea is similar to Google Search autocompletion, where user could get whole sequence of incomplete sentence queryed. Here is presented the usage of LSTM to predict sequence from a famous novel titled Anna Karenina. Anna Karenina (Russian: «Анна Каренина», IPA: [ˈanːə kɐˈrʲenʲɪnə])is a novel by the Russian writer Leo Tolstoy, published in serial installments from 1873 to 1877 in the periodical The Russian Messenger. Tolstoy clashed with editor Mikhail Katkov over political issues that arose in the final installment (Tolstoy's negative views of Russian volunteers going to fight in Serbia); therefore, the novel's first complete appearance was in book form in 1878.
